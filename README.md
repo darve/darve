@@ -1,5 +1,7 @@
 ### Hello friend.
 
+I am a full-stack javascript developer, favouring Preact on the front end and Express / Mongo / Redis on the back-end.
+
 Below you will find a short yet raw-noodle-sharp list of attributes which prime me for internet-synergy.
 
 - I done loads of codes mate, ask anyone
