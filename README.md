@@ -2,21 +2,10 @@
 
 > 🍺 I am looking for work.
 
-I am a full-stack javascript developer with 12 years experience with building websites, applications and games. I am currently enjoying working with Preact on the front end and Express / Mongo / Redis on the back-end. I'm also the co-founder of [Symplify](https://www.symplify.co.uk) - software startup that provides a digital platform for Speech and Language therapists. Symplify is a subscription service that empowers therapists with powerful tools and communication-rich therapy activities to augment their therapy sessions.
+I am a full-stack javascript / typescript developer with 15 years experience with building websites, applications and games. 
+
+I am currently enjoying working with Preact on the front end and Express / Mongo / Redis on the back-end.
+
+I am the co-founder and head of technology over at [Symplify](https://www.symplify.co.uk). Symplify is a software startup that provides a digital platform for Speech and Language therapists. Symplify is a subscription service that empowers therapists with powerful tools and communication-rich therapy activities to augment their therapy sessions.
 
 Generative art is a huge passion of mine - I use programming to create patterns and shapes that can be drawn by Stephen (my pen robot). You can read more about that over at [hyperkinetic.art](https://www.hyperkinetic.art).
-
-<!--
-**darve/darve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
