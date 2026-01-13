@@ -1,11 +1,36 @@
-### Hello friend.
+### Hello friend.  👋
 
-> 🍺 I am looking for work.
+I'm a full-stack TypeScript developer with 17 years of experience building websites, applications, and games. 
 
-I am a full-stack javascript / typescript developer with 15 years experience with building websites, applications and games. 
+## 🔭 Recent projects
 
-I am currently enjoying working with Vite / React / Typescript / PostCSS. 
+- **Lead Engineer** at [Phantom Studios](https://phantom.studio) (2025)
+- **Co-founder & Head of Technology** at [Symplify](https://www.symplify.co.uk) - A digital platform for Speech and Language Therapists, serving 2,000+ therapists across 40+ NHS trusts
 
-I am the co-founder and head of technology over at [Symplify](https://www.symplify.co.uk). Symplify is a software startup that provides a digital platform for Speech and Language therapists. Symplify is a subscription service that empowers therapists with powerful tools and communication-rich therapy activities to augment their therapy sessions.
+## 🛠️ Core Stack
 
-Generative art is a huge passion of mine - I use programming to create patterns and shapes that can be drawn by Stephen (my pen robot). You can read more about that over at [hyperkinetic.art](https://www.hyperkinetic.art).
+- **Frontend**: React, TypeScript, Vite, PostCSS, Tailwind, Three.js, PIXI.js
+- **Backend**:  Node.js, Express, PostgreSQL, MongoDB
+- **DevOps**: AWS, Serverless, Lambda, CloudFront
+- **Creative**: Generative art, WebGL/GLSL, Canvas manipulation
+
+## 🏆 Recent Highlights
+
+- 🥇 **YunoJuno Developer of the Year 2022**
+- 🎨 Generative art exhibitions in central Oxford
+- 📱 Apple-featured isometric drawing app (UK App Store)
+- 🎮 Building interactive experiences and game projects
+
+## 🎨 Creative Work
+
+I create generative art using code and robotics. My pen plotter robot, Stephen, brings these digital patterns to life on paper. Check out more at [hyperkinetic.studio](https://hyperkinetic.studio/)
+
+## 🌐 Find Me
+
+- 🌍 Portfolio: [hyperkinetic.studio](https://hyperkinetic.studio/)
+- 📧 Email: [dave@darve.co.uk](mailto:dave@darve.co.uk)
+- 📱 Phone: [07772937127](tel:07772937127)
+
+---
+
+*Currently available for freelance work and interesting projects.*
