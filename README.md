@@ -29,7 +29,6 @@ I create generative art using code and robotics. My pen plotter robot, Stephen, 
 
 - 🌍 Portfolio: [hyperkinetic.studio](https://hyperkinetic.studio/)
 - 📧 Email: [dave@darve.co.uk](mailto:dave@darve.co.uk)
-- 📱 Phone: [07772937127](tel:07772937127)
 
 ---
 
